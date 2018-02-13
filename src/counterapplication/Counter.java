@@ -1,5 +1,7 @@
 package counterapplication;
 
+// Counter class
+
 public class Counter {
     protected int value;
     
